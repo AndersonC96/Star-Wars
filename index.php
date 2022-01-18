@@ -7,7 +7,7 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <link rel="stylesheet" href="style.css">
         <script src="main.js"></script>
-        <embed name="myMusic" loop="true" hidden="true" src="./music.mp3">
+        <embed name="DarthVader" src="music.mp3" loop="true" hidden="true" autostart="true">
     </head>
     <body>
         <div class="container">
