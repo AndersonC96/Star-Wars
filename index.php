@@ -30,7 +30,7 @@
                 <li><a href="./species.php">Espécies</a></li>
                 <li><a href="./planets.php">Planetas</a></li>
             </ul>
-            <h2>Filmes Star Wars</h2>
+            <h2>Filmes</h2>
             <div class="table-bordered">
                 <table class="table">
                     <thead>
