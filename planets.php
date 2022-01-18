@@ -23,7 +23,8 @@
         ?>
         <div class="container">
             <ul class="nav nav-tabs">
-                <li><a href="./index.php">Filmes</a></li>
+                <li><a href="./index.php">Home</a></li>
+                <li><a href="./movies.php">Filmes</a></li>
                 <li><a href="./characters.php">Personages</a></li>
                 <li><a href="./starships.php">Naves</a></li>
                 <li><a href="./vehicles.php">Veículos</a></li>
