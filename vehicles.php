@@ -30,7 +30,7 @@
                 <li><a href="./species.php">Espécies</a></li>
                 <li><a href="./planets.php">Planetas</a></li>
             </ul>
-            <h2>Personagens</h2>
+            <h2>Veículos</h2>
             <div class="table-bordered">
                 <table class="table">
                     <thead>
