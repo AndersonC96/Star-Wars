@@ -1,7 +1,7 @@
 <html>
     <head>
         <title>Veículos | Star Wars</title>
-        <link rel="shortcut icon" href="./favicon.ico"/>
+        <link rel="shortcut icon" href="./favicon.png"/>
         <embed name="myMusic" loop="true" hidden="true" src="./music.mp3">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
