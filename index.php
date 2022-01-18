@@ -2,12 +2,12 @@
     <head>
         <title>Home | Star Wars</title>
         <link rel="shortcut icon" href="./favicon.png"/>
-        <embed name="myMusic" loop="true" hidden="true" src="./music.mp3">
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
         <link rel="stylesheet" href="style.css">
         <script src="main.js"></script>
+        <embed name="myMusic" loop="true" hidden="true" src="music.mp3">
     </head>
     <body>
         <div class="container">
