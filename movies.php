@@ -23,13 +23,13 @@
         ?>
         <div class="container">
             <ul class="nav nav-tabs">
-                <li><a href="./index.php">Home</a></li>
+                <li><b href="./index.php">Home</b></li>
                 <li class="active"><a href="./movies.php">Filmes</a></li>
-                <li><a href="./characters.php">Personages</a></li>
-                <li><a href="./starships.php">Naves</a></li>
-                <li><a href="./vehicles.php">Veículos</a></li>
-                <li><a href="./species.php">Espécies</a></li>
-                <li><a href="./planets.php">Planetas</a></li>
+                <li><b href="./characters.php">Personages</b></li>
+                <li><b href="./starships.php">Naves</b></li>
+                <li><b href="./vehicles.php">Veículos</b></li>
+                <li><b href="./species.php">Espécies</b></li>
+                <li><b href="./planets.php">Planetas</b></li>
             </ul>
             <h2>Filmes</h2>
             <div class="table-bordered">
